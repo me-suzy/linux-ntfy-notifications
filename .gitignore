@@ -1,0 +1,11 @@
+# Ignore configuration files with real credentials
+*_real.py
+*_credentials.py
+*.secret
+*.env
+
+# Keep only template files
+*.template
+README.md
+LICENSE
+
